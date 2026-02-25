@@ -30,4 +30,4 @@ I love building projects, learning new technologies, and sharing my work on GitH
 
 ## 📈 GitHub Stats
 
-![C# Robot's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Kurt's GitHub stats](https://github-readme-stats.vercel.app/api?username=kurtsqrd&show_icons=true&theme=radical)
