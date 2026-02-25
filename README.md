@@ -18,16 +18,3 @@ I love building projects, learning new technologies, and sharing my work on GitH
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/yourusername)  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yourusername)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kurtsqrd)
-
----
-
-## 🔭 Projects
-
-- Project 1: [Link](https://github.com/yourusername/project1)  
-- Project 2: [Link](https://github.com/yourusername/project2)  
-
----
-
-## 📈 GitHub Stats
-
-![Kurt's GitHub stats](https://github-readme-stats.vercel.app/api?username=kurtsqrd&show_icons=true&theme=radical)
