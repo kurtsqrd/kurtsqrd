@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Kurt Francis!
 
-I'm a passionate developer exploring **Python**, **Java**, and **C#**.  
+I'm a passionate programmer exploring **Python**, **Java**, and **C#**.  
 I love building projects, learning new technologies, and sharing my work on GitHub.
 
 ---
