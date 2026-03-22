@@ -24,3 +24,5 @@ I love building projects, learning new technologies, and sharing my work on GitH
     <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="40" height="40"/>
   </a>
 </p>
+
+## &#x1f4c8; GitHub Stats
